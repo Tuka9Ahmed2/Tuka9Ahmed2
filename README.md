@@ -1,7 +1,7 @@
 <div align="center">
 # Hi, I'm Tuqa Ahmed 👋
  
-### Information Technology Graduate | Data Analysis & Python
+### Information Technology   | Data Analysis & Python
  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -70,5 +70,5 @@ A desktop to-do and daily planning app built to be actually used.
 <div align="center">
 ⭐ Thanks for stopping by! 
  
-</div>
+</div>  
   
